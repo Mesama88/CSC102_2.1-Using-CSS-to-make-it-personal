@@ -1,0 +1,42 @@
+/*
+declaration block:
+
+selector
+{
+    property: value;
+    property: value2;
+}
+*/
+
+body /*Format body items*/
+{
+    background-color: orange; /*Set the background color*/
+    color: black;   /*Set the text color.*/
+}
+
+nav /*Format nav items.*/
+{
+    height: 6000px;  /*Set the height*/
+    width: 200px;   /*Set the width1*/
+    float: left;    /*Orient on the left side.*/
+    padding: 5px;   /*Add a 5 pixel space.*/
+    line-height: 30px; /*Set the line height to 30 pixels.*/
+}
+
+footer /*Format footer items.*/
+{
+    text-align: center; /*Center the text*/
+    margin-right: 200px; /*Creates a margin 200 pixels wide on the right side*/
+}
+
+#memeImage /*Formet this specific image.*/
+{
+    margin-right: 200px;
+    width: 400px;  /*Set the width of the image to 400 pixels.*/
+    height: 400px; /*Set the height of the image to 400 pixels.*/
+}
+
+h1 /*make changes Header 1 items.*/
+{
+    text-align: center; /*center the text.*/ 
+}
